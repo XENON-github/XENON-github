@@ -1,4 +1,4 @@
-<h4 align="left">hi, im xenon<br>i love to make things that have no real value <br>aspiring to become a systems engineer<br>hope you'll enjoy my projects :)</h4>
+<h4 align="left">hi, im xenon<br><br>aspiring to become a systems engineer<br>hope you'll enjoy my projects :)</h4>
 
 ###
 
